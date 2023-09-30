@@ -7,7 +7,7 @@ SilverhandVoiceRU — голосовая модель Джонни Сильве�
 
 *Оригинальный актёр озвучки — Илья Бледный*
 ## 📩 Скачивание модели
-[1️⃣] [Google Drive](https://drive.google.com/uc?export=view&id=1kCPlTbvle5aX8TqAfR2zrH5KN9d76iPP)
+[1️⃣] [Google Drive](https://drive.google.com/uc?export=view&id=1kDfZfGPU2XV0ObNyAQfbUqysNa2zjSwv)
 
 [2️⃣] *...*
 ## 🔧 Сетап на so-vits-svc
